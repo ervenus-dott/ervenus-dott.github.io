@@ -23,6 +23,7 @@ export default function (config) {
         </iframe>
   </div>
 </article>
+<div>${config.content}</div>
 `
     });
 };
