@@ -18,6 +18,7 @@ export default function (config) {
             <li><a href="${basePath}/">Home</a></li>
 <!--            <li><a href="${basePath}/gallery/">Gallery</a></li>-->
 <!--            <li><a href="${basePath}/process/">Process</a></li>-->
+            <li><a href="${basePath}/code_projects/">Code Projects</a></li>
             <li><a href="${basePath}/blog/">Blog</a></li>
           </ul>
         </nav>
