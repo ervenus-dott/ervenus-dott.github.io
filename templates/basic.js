@@ -1,5 +1,5 @@
 export default function (config) {
-  const { title, content, basePath } = config;
+  const {content, basePath } = config;
   return /* html */ `
   <!DOCTYPE html>
   <html lang="en">
