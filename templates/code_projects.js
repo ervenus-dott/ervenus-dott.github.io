@@ -4,7 +4,8 @@ export default function (config) {
     return basic({
         ...config,
         content: /* html */`
-<article>
+<h2>Code Projects</h2>
+<div>
   <div>
         <iframe 
             src="https://ervenus-dott.github.io/web_toys/06_hello_particles.html" 
