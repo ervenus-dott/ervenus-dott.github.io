@@ -1,6 +1,6 @@
 ---
-title: Process
-template: process
+title: Code Projects
+template: code_projects
 ---
 
 
