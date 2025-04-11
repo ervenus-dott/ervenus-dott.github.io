@@ -21,10 +21,10 @@ export default async function (config) {
       .localeCompare(a.frontMatter.date)
     )
     .map(({link, frontMatter}) => /*html*/`<article class="blog-post-link">
-      <h3><a href="projects/${link}">${frontMatter.title}</a></h3>
+      <h3>${frontMatter.title}</h3>
+      <a href="projects/${link}">Click to read more</a>
       <p class="date">${frontMatter.date}</p>
-      <p class="stars">${frontMatter.personal_rating} / 5 stars</p>
-      <p>${frontMatter.description || 'Click to read more'}</p>
+      <p class="stars">How much I liked it Rating: ${frontMatter.personal_rating} / 5 stars</p>
       <iframe 
         src="${frontMatter.url}" 
         width="600" 
