@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "markdown-it": "^14.1.0"
+  },
+  "engines": {
+    "node": ">=18.20.1"
+  }
+}
