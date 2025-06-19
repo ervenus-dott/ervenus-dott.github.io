@@ -2,7 +2,7 @@
 title: Map Generator
 date: 2025-03-18
 url: https://ervenus-dott.github.io/web_toys/08_room_generator.html
-personal_rating: 3.5
+personal_rating: makes fun maze 🔑
 template: code_frame
 ---
 

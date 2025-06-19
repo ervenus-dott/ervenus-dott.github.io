@@ -8,7 +8,7 @@ export default async function (config) {
       <article class="blog-post-link">
         <h3>${config.title}</h3>
         <p class="date">${config.date}</p>
-        <p class="stars">How much I liked it Rating: ${config.personal_rating} / 5 stars</p>
+        <p class="stars">Few word subjectivity rating: ${config.personal_rating}</p>
       </article>
         <iframe 
           src="${config.url}" 

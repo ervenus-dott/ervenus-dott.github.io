@@ -2,7 +2,7 @@
 title: Star Particles
 date: 2025-02-13
 url: https://ervenus-dott.github.io/web_toys/06_hello_particles.html
-personal_rating: 3
+personal_rating: fun flying colors✨
 template: code_frame
 ---
 

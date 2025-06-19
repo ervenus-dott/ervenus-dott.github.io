@@ -24,7 +24,7 @@ export default async function (config) {
       <h3>${frontMatter.title}</h3>
       <a href="projects/${link}">Click to read more</a>
       <p class="date">${frontMatter.date}</p>
-      <p class="stars">How much I liked it Rating: ${frontMatter.personal_rating} / 5 stars</p>
+      <p class="stars">Few word subjectivity rating: ${frontMatter.personal_rating}</p>
       <iframe 
         src="${frontMatter.url}" 
         width="600" 
