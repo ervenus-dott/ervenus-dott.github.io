@@ -4,11 +4,13 @@ body {
 	background-color: #333;
 	color: #ddd;
 	font-family: Verdana;
+	background-image: url("mosaic_with_texture_128px.png");
 }
 .container {
 	padding: 1rem;
 	max-width: 960px;
 	margin: auto;
+	background-color: #333333d1;
 }
 header {
 	padding-bottom: 1rem;
