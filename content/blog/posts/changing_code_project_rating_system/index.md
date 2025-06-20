@@ -1,4 +1,5 @@
 ---
+template: blog
 date: 2025-06-19
 tags: blogPost
 title: Changing the Rating System used for coding projects

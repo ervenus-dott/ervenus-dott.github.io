@@ -11,7 +11,7 @@ export default function (config) {
   </head>
   <body>
     <div class="container">
-      <h1>Ercillia's Site</h1>
+      <h2>Ercillia's Site</h2>
       <header>
         <nav>
           <ul>

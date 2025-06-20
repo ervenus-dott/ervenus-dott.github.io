@@ -1,4 +1,5 @@
 ---
+template: blog
 date: 2024-09-25
 tags: blogPost
 title: Whirlpool of Strange
